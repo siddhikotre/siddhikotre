@@ -1,4 +1,4 @@
-# Hi there, I'm Akash Choudhary 👋
+# Hi there, I'm Siddhi Kotre 👋
 
 <div align="right">
 
@@ -12,17 +12,15 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 👯 I’m looking to collaborate on **<a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>**.
+- 👯 I’m looking to collaborate on **<a href="https://github.com/siddhikotre">[Project]</a>**.
 
 - 🤔 I’m seeking assistance with **developing my own model** to understand and answer queries specifically for standard 4th history subject.
 
 - 💬 Feel free to ask me about **my projects and interests**.
 
-- 📫 How to reach me: **<a href="#-connect--engage">Akash Choudhary</a>**
+- 📫 How to reach me: **<a href="#-connect--engage">Siddhi Kotre</a>**
 
-- 😄 Pronouns: **he/him**
-
-- ⚡ Fun fact: **I once debugged a piece of code for so long that I started dreaming in syntax!**
+- ⚡ Fun fact: **[]**
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
