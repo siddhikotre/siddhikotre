@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 |                      |                      |
 |:--------------------:|:--------------------:|
-| [![.BearsAndBulls](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=BearsAndBulls)](https://github.com/siddhikotre/BearsAndBulls) |
-[![RecipeRadar](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=RecipeRadar)](https://github.com/siddhikotre/RecipeRadar) |
+| [![BearsAndBulls](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=BearsAndBulls)](https://github.com/siddhikotre/BearsAndBulls) | [![RecipeRadar](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=RecipeRadar)](https://github.com/siddhikotre/RecipeRadar) |
 
 </div>
 
