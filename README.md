@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **<a href="https://github.com/siddhikotre/RecipeRadar">RecipeRadar</a>**.
 
-- 🤔 I’m seeking assistance with **developing my own model** to understand and answer queries specifically for standard 4th history subject.
-
 - 💬 Feel free to ask me about **my projects and interests**.
 
 - 📫 How to reach me: **<a href="#-connect--engage">Siddhi Kotre</a>**
