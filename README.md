@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 |                      |                      |
 |:--------------------:|:--------------------:|
-| [![HistBot](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper)](https://github.com/iakashchoudhary/HistBot-Your-History-Helper) | [![Darebee Project](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS)](https://github.com/iakashchoudhary/DareBee-SPA-AngularJS) |
+| [![.BearsAndBulls](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=BearsAndBulls)](https://github.com/siddhikotre/BearsAndBulls) |
+[![RecipeRadar](https://github-readme-stats.vercel.app/api/pin/?username=siddhikotre&repo=RecipeRadar)](https://github.com/siddhikotre/RecipeRadar) |
 
 </div>
 
