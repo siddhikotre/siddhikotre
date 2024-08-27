@@ -6,34 +6,17 @@
 
 </div>
 
-## 🧑🏼‍🎓 About Me
+🧑🏼‍🎓 About Me
+🔭 Current Focus: I'm actively working on enhancing my skills in various tech domains.
 
-- 🔭 I’m currently working on **enhancing my skills**.
+🌱 Learning Journey: Currently diving deep into Data Structures and Algorithms to solidify my coding foundation.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
+💬 Ask Me About: My projects, tech interests, and how I'm blending tech with creativity.
 
-- 👯 I’m looking to collaborate on **<a href="https://github.com/siddhikotre/RecipeRadar">RecipeRadar</a>**.
+📫 Connect with Me: Siddhi Kotre
 
-- 💬 Feel free to ask me about **my projects and interests**.
+⚡ Fun Fact: I’m a tech enthusiast who loves exploring the science behind everyday things
 
-- 📫 How to reach me: **<a href="#-connect--engage">Siddhi Kotre</a>**
-
-- ⚡ Fun fact: **[]**
-
-<!--
-**iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🏆 Highlighted Projects
 
@@ -49,9 +32,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,python,pycharm,react,angular&perline=3" />
   </a>
 </p>
+
+
+
 
 ## 📊 GitHub Statistics
 
