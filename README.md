@@ -32,10 +32,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,pycharm,react,angular&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cpp,powerbi,django,flask,cs,r,mysql,sqlite,mongodb,nodejs,latex,tableau,git,pentaho&perline=5" />
   </a>
 </p>
-
 
 
 
