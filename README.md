@@ -74,10 +74,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## 🚀 Achievements
 
-- 🎓 **Certified in Software Testing** from [NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs47/Course/NPTEL24CS47S35020037030034542.pdf)
-- 📊 **Certified in Data Visualization** from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/004)
 
 ## 🎨 Hobbies / Interests
 
