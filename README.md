@@ -1,10 +1,5 @@
 # Hi, I'm Siddhi Kotre 👋
 
-<div align="right">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=siddhikotre&label=Profile%20Views&color=12&icon=0&pretty=true)
-
-</div>
 
 💻 **Aspiring Software Developer | AI Enthusiast | Problem Solver**
 
